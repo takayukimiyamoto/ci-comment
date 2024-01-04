@@ -1,0 +1,12 @@
+{
+  "name": "ci-comment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "node scripts/script"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
